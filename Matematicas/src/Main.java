@@ -39,7 +39,14 @@ public class Main {
         System.out.println("Raíz cuadrada del primer número: " + raizCuadrada1);
         System.out.println("Raíz cuadrada del segundo número: " + raizCuadrada2);
         System.out.println("Potencia (primer número elevado al segundo número): " + potencia);
-
+        System.out.println("Seno del primer número: " + seno1);
+        System.out.println("Seno del segundo número: " + seno2);
+        System.out.println("Coseno del primer número: " + coseno1);
+        System.out.println("Coseno del segundo número: " + coseno2);
+        System.out.println("Tangente del primer número: " + tangente1);
+        System.out.println("Tangente del segundo número: " + tangente2);
+        System.out.println("Logaritmo natural del primer número: " + logaritmo1);
+        System.out.println("Logaritmo natural del segundo número: " + logaritmo2);
 
 
         scanner.close();
