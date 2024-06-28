@@ -35,6 +35,10 @@ public class Main {
         System.out.println("Resta: " + resta);
         System.out.println("Multiplicación: " + multiplicacion);
         System.out.println("División: " + division);
+        System.out.println("Módulo: " + modulo);
+        System.out.println("Raíz cuadrada del primer número: " + raizCuadrada1);
+        System.out.println("Raíz cuadrada del segundo número: " + raizCuadrada2);
+        System.out.println("Potencia (primer número elevado al segundo número): " + potencia);
 
 
 
