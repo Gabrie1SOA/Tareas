@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Entrada de datos
+        // Entrada de los datos
         System.out.println("Ingrese el primer número:");
         double num1 = scanner.nextDouble();
         System.out.println("Ingrese el segundo número:");
