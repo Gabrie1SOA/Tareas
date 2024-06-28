@@ -17,6 +17,12 @@ public class Main {
         double division = num1 / num2;
         double modulo = num1 % num2;
 
+        // Operaciones avanzadas
+        double raizCuadrada1 = Math.sqrt(num1);
+        double raizCuadrada2 = Math.sqrt(num2);
+        double potencia = Math.pow(num1, num2);
+        double seno1 = Math.sin(Math.toRadians(num1));
+        double seno2 = Math.sin(Math.toRadians(num2));
 
 
 
