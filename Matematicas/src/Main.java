@@ -23,6 +23,13 @@ public class Main {
         double potencia = Math.pow(num1, num2);
         double seno1 = Math.sin(Math.toRadians(num1));
         double seno2 = Math.sin(Math.toRadians(num2));
+        double coseno1 = Math.cos(Math.toRadians(num1));
+        double coseno2 = Math.cos(Math.toRadians(num2));
+        double tangente1 = Math.tan(Math.toRadians(num1));
+        double tangente2 = Math.tan(Math.toRadians(num2));
+        double logaritmo1 = Math.log(num1);
+        double logaritmo2 = Math.log(num2);
+
 
 
 
